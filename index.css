@@ -230,7 +230,7 @@ nav > ul {
 
 
 
-#pricing {
+#product {
   margin-top: 60px;
   display: flex;
   flex-direction: row;
@@ -282,8 +282,8 @@ nav > ul {
 }
 
 @media (max-width: 800px) {
-  #pricing {
-    flex-direction: column;
+  #product {
+    flex-direction: row;
   }
   .product {
     max-width: 300px;
